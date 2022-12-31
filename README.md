@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a drone project under Prof. Sandeep Saha, AE, IIT Kharagpur
+- 🌱 I’m currently learning Reinforcement Learning applications in Control Systems
+- 👯 I’m looking to collaborate on Computer Vision projects
+- 💬 Ask me about tech!
+- 📫 How to reach me: g.sailokesh9@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Astronomy
+
 <!--
 **it-is-lokesh/it-is-lokesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
